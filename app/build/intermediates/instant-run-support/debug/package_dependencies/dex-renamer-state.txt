@@ -1,0 +1,4 @@
+#Mon Apr 10 17:16:02 IST 2017
+base.0=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2afb2889056d5cd5596d2869f0cc7024ee1558dc
+renamed.0=classes.dex
+file.0=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2afb2889056d5cd5596d2869f0cc7024ee1558dc\\classes.dex

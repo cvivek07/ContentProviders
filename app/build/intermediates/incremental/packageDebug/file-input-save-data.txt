@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Apr 10 17:16:09 IST 2017
+2.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a90d1634a0b1d7106650797aef2ef45035e52036
+5.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=DEX
+4.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7521cd7c00ea2425ae88b661aa8b364f5221fbd7
+7.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a90d1634a0b1d7106650797aef2ef45035e52036\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Android Projects\\ContentProviders-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7521cd7c00ea2425ae88b661aa8b364f5221fbd7\\classes.dex
+0.set=ANDROID_RESOURCE
